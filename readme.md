@@ -14,4 +14,4 @@ Some things to know :
     3. Files present in my directory which can be used to verify : Object.html, hello.world, about
     4. URL : a) localhost:8090/Object.html b) localhost:8090/hello.world c) localhost:8090/about
 
-Note : I have tried implementing Keep-Alive behaviour but I need to enhance it more .
+Note : I have tried implementing the optional extension Keep-Alive behaviour but I need to enhance it more if given some time .
